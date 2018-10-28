@@ -80,7 +80,7 @@ def numerus(roman):
     total = 0
     prev = 0
     for l in roman:
-        cur = values[l]
+        cur = values.get(l, 0)
         if prev < cur:
             total -= prev
             cur -= prev
