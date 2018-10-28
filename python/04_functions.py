@@ -9,6 +9,7 @@ print(sum([1, 2, 3]))
 print(max([1, 2, 3]))
 print(min([1, 2, 3]))
 
+# Range does not include the last value
 for x in range(10):
     print(x)
 
