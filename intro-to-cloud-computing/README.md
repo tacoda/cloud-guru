@@ -34,3 +34,7 @@ Infrastructure as a service is an abstracting of physical machines (or one machi
 ## What is PaaS
 
 Platform as a service a service that provides a platform for you to run your code. The platform takes care of the application server, load balancers, database, etc. You still have to worry about the assets, but not the provisioning.
+
+## What is SaaS
+
+Software as a service is software that can be used out of the box. The product is the software and you only have to worry about how you use that software, and not the software itself or its underlying assets.
