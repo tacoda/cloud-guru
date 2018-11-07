@@ -38,3 +38,7 @@ Platform as a service a service that provides a platform for you to run your cod
 ## What is SaaS
 
 Software as a service is software that can be used out of the box. The product is the software and you only have to worry about how you use that software, and not the software itself or its underlying assets.
+
+## What is FaaS
+
+Functions as a service is a service that allows you to submit a single function (code) and you don't have to worry about the servers, scaling, etc. You only have to manage your code, which is run on-demand. FaaS allows you to break down monolithic applications into an aggregate of functions. This is great for decoupling code.
