@@ -42,3 +42,7 @@ Software as a service is software that can be used out of the box. The product i
 ## What is FaaS
 
 Functions as a service is a service that allows you to submit a single function (code) and you don't have to worry about the servers, scaling, etc. You only have to manage your code, which is run on-demand. FaaS allows you to break down monolithic applications into an aggregate of functions. This is great for decoupling code.
+
+## How secure is the Cloud
+
+Since the service is offloaded to professionals who focus on that particular job, the cloud is more secure in general. Of course, you must still have secure coding practices. But, for instance, AWS will always keep its servers patched and up to date.
