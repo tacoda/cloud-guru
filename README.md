@@ -2,19 +2,7 @@
 
 > This repository is for acloud.guru
 
-### In Progress
-
-- Python
-- Linux
-
-### To Do
-
-- S3
-- DynamoDB
-- Cloud Formation
-
-### Related Learning
-
-- Chef
-- Ansible
-
+- [x] Introduction to Cloud Computing
+- [ ] Introduction to AWS
+- [x] Coding for the Cloud
+- [ ] Python for Beginners
