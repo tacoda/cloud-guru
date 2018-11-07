@@ -57,3 +57,19 @@
 - Launch a virtual machine with EC2
 - Use Lambda and Elastic Transcoder to convert videos to other formats
 - Use Auth0 to add authentication
+
+## Advantages of the Cloud
+
+- Operational flexibility
+- Scalability
+- Lower costs
+- Simpler code
+- Quicker time-to-market
+
+## Risks of the Cloud
+
+- Loss of control
+- Complex architectures
+    - Use existing solutions and standards
+- Cost
+- Vendor lock-in and dependencies
