@@ -46,3 +46,12 @@ Functions as a service is a service that allows you to submit a single function 
 ## How secure is the Cloud
 
 Since the service is offloaded to professionals who focus on that particular job, the cloud is more secure in general. Of course, you must still have secure coding practices. But, for instance, AWS will always keep its servers patched and up to date.
+
+## Advantages in using the Cloud
+
+- Scalability
+- Disk space
+- Compute time
+- Little downtime
+- Cheaper
+- More flexible (pay by a measure with no contracts)
