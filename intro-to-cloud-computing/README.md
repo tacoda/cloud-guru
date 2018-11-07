@@ -26,3 +26,7 @@ There are still servers, but you don't have to manage it. You don't even have to
 - Less capital expenditure
 - Use on-demand
 - Focus on business value features, rather than infrastructure
+
+## What is IaaS
+
+Infrastructure as a service is an abstracting of physical machines (or one machine using a hypervisor) that allows you to use that compute power on demand as a service.
