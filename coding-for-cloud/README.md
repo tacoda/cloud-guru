@@ -50,3 +50,10 @@
     - A notification service triggers multiple async actions
 - Pipes and Filters Pattern
     - Dividing a large task into a series of smaller steps
+
+## Cloud Development Examples
+
+- Use S3 and CloudFront to store and serve large files for WordPress
+- Launch a virtual machine with EC2
+- Use Lambda and Elastic Transcoder to convert videos to other formats
+- Use Auth0 to add authentication
